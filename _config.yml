@@ -1,0 +1,13 @@
+title: Jovan Vukić
+logo: "/images/jovan.png?raw=true"
+description: <b>Welcome</b> to my portfolio website! 🙋
+  <br>
+  Learn more about me and feel free to connect with me on social media!
+  <br><br>
+  <a href="https://www.linkedin.com/in/jovan-vukic/"><i class="fa fa-linkedin"></i> Visit My LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/jovan-vukic/"><i class="fa fa-github-square"></i> Visit My GitHub Profile</a>
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
